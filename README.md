@@ -1,4 +1,4 @@
-| CV/Portfolio: https://n-valentin.github.io/portfolio/
+🌱 CV/Portfolio: https://n-valentin.github.io/portfolio/
 
 <!--
 **n-valentin/n-valentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
