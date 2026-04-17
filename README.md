@@ -1,9 +1,9 @@
 🌱 CV/Portfolio: https://n-valentin.github.io/portfolio/
 ```
 Lua      ★★★★★
-C#       ★★★★☆
-HTML/CSS ★★★☆☆
-Java/JS  ★☆☆☆☆
+C#       ★★★★✰
+HTML/CSS ★★★✰✰
+Java/JS  ★✰✰✰✰
 ```
 <!--
 **n-valentin/n-valentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
