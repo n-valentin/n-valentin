@@ -4,6 +4,7 @@ Lua      ★★★★★
 C#       ★★★★✰
 HTML/CSS ★★★✰✰
 Java/JS  ★✰✰✰✰
+SQL      ★✰✰✰✰
 ```
 <!--
 **n-valentin/n-valentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
