@@ -1,6 +1,6 @@
 🌱 CV/Portfolio: https://n-valentin.github.io/portfolio/
 ```
-Lua      ★★★★★
+Lua      ✪✪✪✪✪
 C#       ★★★★✰
 HTML/CSS ★★★✰✰
 SQL      ★★✰✰✰
